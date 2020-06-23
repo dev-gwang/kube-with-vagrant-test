@@ -1,0 +1,3 @@
+[submodule "kube-install-cookbook"]
+	path = kube-install-cookbook
+	url = https://github.com/gwangildev/kube-install-cookbook.git
